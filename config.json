@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchrerify",
+        "uuid": 10080018,
+        "checksum": "r6geqv"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
